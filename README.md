@@ -24,4 +24,9 @@ Project Closing indicate the end of the project lifecycle where the project need
 
 ##### Project Presentation: [Project Presentation](PMP-Plan/F-PROJECT_PRESENTATION.md)
 Project Presentation shows the demonstration of the car plate recognition system developed by QTMT INC. 
+
 ## Sample Result
+
+### Live prediction using OpenCV:
+
+![img result](PMP-Plan/assets/result_1.jpg)
