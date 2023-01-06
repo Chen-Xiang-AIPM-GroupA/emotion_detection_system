@@ -25,6 +25,34 @@ Project Closing indicate the end of the project lifecycle where the project need
 ##### Project Presentation: [Project Presentation](PMP-Plan/F-PROJECT_PRESENTATION.md)
 Project Presentation shows the demonstration of the emotion detection system developed by Group A Sdn Bhd. 
 
+## Installation
+
+1. Python version 3.10.4
+
+2. Clone this github repository
+
+```
+$ git clone https://github.com/Chen-Xiang-AIPM-GroupA/emotion_detection_system.git
+```
+
+3. cd to the project directory
+
+```
+$ cd emotion_detection_system
+```
+
+4. Install all the requirements library
+
+```
+$ pip install -r requirements.txt
+```
+
+5. Run the emotion detection system
+
+```
+$ python emotion_detection_system.py
+```
+
 ## Sample Result
 
 ### Live prediction using OpenCV:
