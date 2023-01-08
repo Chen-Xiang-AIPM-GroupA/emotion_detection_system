@@ -1,5 +1,4 @@
-# PROJECT OVERVIEW
-## B. PLANNING THE PROJECT
+# B. PLANNING THE PROJECT
 
 ### Project Management Life Cycle
 
