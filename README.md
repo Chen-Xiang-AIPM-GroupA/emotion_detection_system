@@ -22,6 +22,8 @@ Project Execution is the execution phase where the result, coding blocks and tec
 ##### Project Closing: [Project Closing](PMP-Plan/E-PROJECT_CLOSING.md)
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
+##### Company Organisation: [Company Organisation](PMP-Plan/Z-COMPANY_ORGANIZATION.md)
+
 ## Installation
 
 1. Python version 3.10.4
