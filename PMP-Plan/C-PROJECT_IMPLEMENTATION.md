@@ -22,10 +22,18 @@ Given an input image, the first step of the system would be to detect a face fro
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |RM 1200                         |  Monthly Cloud Server      |      
-|   Cultural resources         |RM 3000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Server Maintenance         |RM 1200                         |  Database      |      
+|   Cultural resources         |RM 1500                         |  Investigate and evaluate undertaking                                                 |                              |
 |   Equipment and equipment use|RM 250                           | Equipment preparation and setup                                                       |                              |
-|   TOTAL                      |RM 4450                        |  Estimated     |                              |
+|   TOTAL                      |RM 2750                        |  Estimated     |                              |
 
 #### Milestones
 
+Microsoft Project :
+
+<img src="assets/Proj.png" width="100%">
+
+
+PowerPoint :
+
+<img src="assets/PPSchedule.png" width="200%">
