@@ -6,6 +6,7 @@ The project is developed by following Project Management Plan(PMP) to better org
 The PMP-Plan developed is simply a simulation collaboration between third party organization. 
 
 ## Project Management Plan
+
 ##### Project Summary: [Project Summary](PMP-Plan/A-PROJECT_SUMMARY.md)
 Project Summary give a brief overview of the project objectives and team members details. 
 
@@ -23,6 +24,10 @@ Project Execution is the execution phase where the result, coding blocks and tec
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
 ##### Company Organisation: [Company Organisation](PMP-Plan/Z-COMPANY_ORGANIZATION.md)
+View the company organisation of Group A Sdn Bhd
+
+##### Full Project Report: [Full Report](https://github.com/Chen-Xiang-AIPM-GroupA/emotion_detection_system/wiki/Emotion-Detection-System)
+View our full project report in the wiki page
 
 ## Installation
 
