@@ -34,6 +34,7 @@ Microsoft Project :
 
 PowerPoint :
 
+<img src="assets/Schedule.jpg" width="50%">
 <img src="assets/PPSchedule.png" width="200%">
 
 <br>
